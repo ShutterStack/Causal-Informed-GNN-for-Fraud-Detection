@@ -1,0 +1,10 @@
+artifact_location: file:///D:/XAI/fraud_detection_system/mlruns/652584072792329111/models/m-9f4e1fc089634ae699cb3d7d869b7dd0/artifacts
+creation_timestamp: 1753788048372
+experiment_id: '652584072792329111'
+last_updated_timestamp: 1753788067934
+model_id: m-9f4e1fc089634ae699cb3d7d869b7dd0
+model_type: null
+name: graphsage-model
+source_run_id: ee25bc1644ff4cca94ec2eeea0deeba2
+status: 2
+status_message: null

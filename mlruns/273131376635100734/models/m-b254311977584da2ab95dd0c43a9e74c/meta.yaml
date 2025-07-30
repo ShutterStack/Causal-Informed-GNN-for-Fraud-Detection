@@ -1,0 +1,10 @@
+artifact_location: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/models/m-b254311977584da2ab95dd0c43a9e74c/artifacts
+creation_timestamp: 1753782867659
+experiment_id: '273131376635100734'
+last_updated_timestamp: 1753782880228
+model_id: m-b254311977584da2ab95dd0c43a9e74c
+model_type: null
+name: xgboost-model
+source_run_id: 10706157784843eea97b6f2d324741eb
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/096e0f237e894564a5f1c932ddeb814e/artifacts
+end_time: 1753782217903
+entry_point_name: ''
+experiment_id: '273131376635100734'
+lifecycle_stage: active
+run_id: 096e0f237e894564a5f1c932ddeb814e
+run_name: polite-shad-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782217747
+status: 4
+tags: []
+user_id: admin

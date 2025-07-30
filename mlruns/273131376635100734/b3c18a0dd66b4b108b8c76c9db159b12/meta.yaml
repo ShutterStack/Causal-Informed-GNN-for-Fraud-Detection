@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/b3c18a0dd66b4b108b8c76c9db159b12/artifacts
+end_time: 1753782430676
+entry_point_name: ''
+experiment_id: '273131376635100734'
+lifecycle_stage: active
+run_id: b3c18a0dd66b4b108b8c76c9db159b12
+run_name: peaceful-smelt-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782430561
+status: 4
+tags: []
+user_id: admin

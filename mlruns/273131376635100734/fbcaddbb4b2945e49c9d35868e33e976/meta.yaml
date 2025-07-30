@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/fbcaddbb4b2945e49c9d35868e33e976/artifacts
+end_time: 1753782621587
+entry_point_name: ''
+experiment_id: '273131376635100734'
+lifecycle_stage: active
+run_id: fbcaddbb4b2945e49c9d35868e33e976
+run_name: wistful-tern-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782621471
+status: 4
+tags: []
+user_id: admin

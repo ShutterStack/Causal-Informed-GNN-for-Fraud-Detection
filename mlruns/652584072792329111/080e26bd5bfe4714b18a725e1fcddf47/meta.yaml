@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/652584072792329111/080e26bd5bfe4714b18a725e1fcddf47/artifacts
+end_time: 1753787613611
+entry_point_name: ''
+experiment_id: '652584072792329111'
+lifecycle_stage: active
+run_id: 080e26bd5bfe4714b18a725e1fcddf47
+run_name: ambitious-whale-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753787613038
+status: 4
+tags: []
+user_id: admin

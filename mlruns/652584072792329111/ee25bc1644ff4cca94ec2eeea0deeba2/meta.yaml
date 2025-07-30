@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/652584072792329111/ee25bc1644ff4cca94ec2eeea0deeba2/artifacts
+end_time: 1753788067952
+entry_point_name: ''
+experiment_id: '652584072792329111'
+lifecycle_stage: active
+run_id: ee25bc1644ff4cca94ec2eeea0deeba2
+run_name: clumsy-frog-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753787892012
+status: 3
+tags: []
+user_id: admin

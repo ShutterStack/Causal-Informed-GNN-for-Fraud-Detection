@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/eee819f066db4508b38d8a17f1537116/artifacts
+end_time: 1753782341252
+entry_point_name: ''
+experiment_id: '273131376635100734'
+lifecycle_stage: active
+run_id: eee819f066db4508b38d8a17f1537116
+run_name: skillful-seal-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782341138
+status: 4
+tags: []
+user_id: admin

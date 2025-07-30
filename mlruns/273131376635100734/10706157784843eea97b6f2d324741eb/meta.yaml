@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/XAI/fraud_detection_system/mlruns/273131376635100734/10706157784843eea97b6f2d324741eb/artifacts
+end_time: 1753782880252
+entry_point_name: ''
+experiment_id: '273131376635100734'
+lifecycle_stage: active
+run_id: 10706157784843eea97b6f2d324741eb
+run_name: clean-donkey-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753782843310
+status: 3
+tags: []
+user_id: admin

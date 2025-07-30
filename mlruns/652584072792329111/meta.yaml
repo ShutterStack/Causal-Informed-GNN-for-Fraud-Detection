@@ -1,0 +1,6 @@
+artifact_location: file:///D:/XAI/fraud_detection_system/mlruns/652584072792329111
+creation_time: 1753787049587
+experiment_id: '652584072792329111'
+last_update_time: 1753787049587
+lifecycle_stage: active
+name: GNN Fraud Detection

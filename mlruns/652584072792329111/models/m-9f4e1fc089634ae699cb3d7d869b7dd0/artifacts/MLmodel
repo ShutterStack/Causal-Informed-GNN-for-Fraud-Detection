@@ -1,0 +1,23 @@
+artifact_path: file:///D:/XAI/fraud_detection_system/mlruns/652584072792329111/models/m-9f4e1fc089634ae699cb3d7d869b7dd0/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.2.0+cpu
+mlflow_version: 3.1.4
+model_id: m-9f4e1fc089634ae699cb3d7d869b7dd0
+model_size_bytes: 32592
+model_uuid: m-9f4e1fc089634ae699cb3d7d869b7dd0
+prompts: null
+run_id: ee25bc1644ff4cca94ec2eeea0deeba2
+utc_time_created: '2025-07-29 11:20:48.456543'
